@@ -1,0 +1,47 @@
+seat_no,president,birth_date,birth_place,death_date,death_loc,start,end,prior,party,vice
+1,George Washington,"Feb 22, 1732","Westmoreland Co., Va.","Dec 14, 1799","Mount Vernon, Va.","April 30, 1789","March 4, 1797",Commander-in-Chief  of the  Continental Army   ( 1775–1783 ),Nonpartisan   [13],John Adams
+2,John Adams,"Oct 30, 1735","Quincy, Mass.","July 4, 1826","Quincy, Mass.","March 4, 1797","March 4, 1801",1st  Vice President of the United States,Federalist,Thomas Jefferson
+3,Thomas Jefferson,"Apr 13, 1743"," Albemarle Co., Va.","July 4, 1826"," Albemarle Co., Va.","March 4, 1801","March 4, 1809",2nd  Vice President of the United States,Democratic-  Republican,Aaron Burr
+4,James Madison,"Mar 16, 1751","Port Conway, Va.","June 28, 1836","Orange Co., Va.","March 4, 1809","March 4, 1817",5th  United States Secretary of State   (1801–1809),Democratic-  Republican,George Clinton
+5,James Monroe,"Apr 28, 1758","Westmoreland Co., Va.","July 4, 1831","New York, New York","March 4, 1817","March 4, 1825",7th  United States Secretary of State   (1811–1817),Democratic-  Republican,Daniel D. Tompkins
+6,John Quincy Adams,"July 11, 1767","Quincy, Mass.","Feb 23, 1848","Washington, D.C.","March 4, 1825","March 4, 1829",8th  United States Secretary of State   (1817–1825),Democratic-  Republican,John C. Calhoun
+7,Andrew Jackson,"Mar 15, 1767","Waxhaws, No/So Carolina","June 8, 1845","Nashville, Tennessee","March 4, 1829","March 4, 1837",U.S. Senator   ( Class 2 )   from  Tennessee   (1823–1825),Democratic,John C. Calhoun
+8,Martin Van Buren,"Dec 5, 1782","Kinderhook, New York","July 24, 1862","Kinderhook, New York","March 4, 1837","March 4, 1841",8th  Vice President of the United States,Democratic,Richard Mentor Johnson
+9,William Henry Harrison,"Feb 9, 1773","Charles City Co., Va.","Apr 4, 1841","Washington, D.C.","March 4, 1841","April 4, 1841",United States Minister to Colombia   (1828–1829),Whig,John Tyler
+10,John Tyler,"Mar 29, 1790","Charles City Co., Va.","Jan 18, 1862","Richmond, Va.","April 4, 1841","March 4, 1845",10th  Vice President of the United States,"Whig   April 4, 1841  –  September 13, 1841",Office vacant
+11,James K. Polk,"Nov 2, 1795","Mecklenburg Co., N.C.","June 15, 1849","Nashville, Tennessee","March 4, 1845","March 4, 1849",9th  Governor of Tennessee   (1839–1841),Democratic,George M. Dallas
+12,Zachary Taylor,"Nov 24, 1784","Orange County, Va.","July 9, 1850","Washington, D.C","March 4, 1849","July 9, 1850",Major General  of the  1st Infantry Regiment   United States Army   (1846–1849),Whig,Millard Fillmore
+13,Millard Fillmore,"Jan 7, 1800","Cayuga Co., New York","Mar 8, 1874","Buffalo, New York","July 9, 1850","March 4, 1853",12th  Vice President of the United States,Whig,Office vacant
+14,Franklin Pierce,"Nov 23, 1804","Hillsborough, N.H.","Oct 8, 1869","Concord, New Hamp.","March 4, 1853","March 4, 1857",Brigadier General  of the  9th Infantry   United States Army   (1847–1848),Democratic,William R. King
+15,James Buchanan,"Apr 23, 1791","Cove Gap, Pa.","June 1, 1868","Lancaster, Pa.","March 4, 1857","March 4, 1861",United States Minister  to the   Court of St James's   (1853–1856),Democratic,John C. Breckinridge
+16,Abraham Lincoln,"Feb 12, 1809","LaRue Co., Kentucky","Apr 15, 1865","Washington, D.C.","March 4, 1861","April 15, 1865",U.S. Representative  for  Illinois' 7th District   (1847–1849),Republican   ( National Union )   [i],Hannibal Hamlin
+17,Andrew Johnson,"Dec 29, 1808","Raleigh, North Carolina
+","July 31, 1875","Elizabethton, Tenn.","April 15, 1865","March 4, 1869",16th  Vice President of the United States,National Union   [i]   ( Democratic )   [j],Office vacant
+18,Ulysses S. Grant,"Apr 27, 1822","Point Pleasant, Ohio","July 23, 1885","Wilton, New York","March 4, 1869","March 4, 1877",Commanding General  of the U.S. Army   ( 1864–1869 ),Republican,Schuyler Colfax
+19,Rutherford B. Hayes,"Oct 4, 1822","Delaware, Ohio","Jan 17, 1893","Fremont, Ohio","March 4, 1877","March 4, 1881",29th & 32nd  Governor of Ohio   (1868–1872 & 1876–1877),Republican,William A. Wheeler
+20,James A. Garfield,"Nov 19, 1831","Cuyahoga Co., Ohio","Sep 19, 1881","Elberon, New Jersey","March 4, 1881","September 19, 1881",U.S. Representative  for  Ohio's 19th District   (1863–1881),Republican,Chester A. Arthur
+21,Chester Arthur,"Oct 5, 1829","Fairfield, Vermont","Nov 18, 1886","New York, New York","September 19, 1881","March 4, 1885",20th  Vice President of the United States,Republican,Office vacant
+22,Grover Cleveland,"Mar 18, 1837","Caldwell, New Jersey","June 24, 1908","Princeton, New Jersey","March 4, 1885","March 4, 1889",28th  Governor of New York   (1883–1885),Democratic,Thomas A. Hendricks
+23,Benjamin Harrison,"Aug 20, 1833","North Bend, Ohio","Mar 13, 1901","Indianapolis, Indiana","March 4, 1889","March 4, 1893",U.S. Senator   ( Class 1 )   from  Indiana   (1881–1887),Republican,Levi P. Morton
+24,Grover Cleveland,"Mar 18, 1837","Caldwell, New Jersey","June 24, 1908","Princeton, New Jersey","March 4, 1893","March 4, 1897",22nd  President of the United States   (1885–1889),Democratic,Adlai Stevenson
+25,William McKinley,"Jan 29, 1843","Niles, Ohio","Sep 14, 1901 ","Buffalo, New York","March 4, 1897","September 14, 1901",39th  Governor of Ohio   (1892–1896),Republican,Garret Hobart
+26,Theodore Roosevelt,"Oct 27, 1858","New York, New York","Jan 6, 1919","Oyster Bay, New York","September 14, 1901","March 4, 1909",25th  Vice President of the United States,Republican,Office vacant
+27,William H. Taft,"Sep 15, 1857","Cincinnati, Ohio","Mar 8, 1930","Washington, D.C.","March 4, 1909","March 4, 1913",42nd  United States Secretary of War   (1904–1908),Republican,James S. Sherman
+28,Woodrow Wilson,"Dec 28, 1856","Staunton, Virginia","Feb 3, 1924","Washington, D.C.","March 4, 1913","March 4, 1921",34th  Governor of New Jersey   (1911–1913),Democratic,Thomas R. Marshall
+29,Warren G. Harding,"Nov 2, 1865","Morrow County, Ohio ","Aug 2, 1923","San Francisco, Cal.","March 4, 1921","August 2, 1923",U.S. Senator   ( Class 3 )   from  Ohio   (1915–1921),Republican,Calvin Coolidge
+30,Calvin Coolidge,"July 4, 1872","Plymouth, Vermont","Jan 5, 1933","Northampton, Mass.","August 2, 1923","March 4, 1929",29th  Vice President of the United States,Republican,Office vacant
+31,Herbert Hoover,"Aug 10, 1874","West Branch, Iowa","Oct 20, 1964","New York, New York","March 4, 1929","March 4, 1933",3rd  United States Secretary of Commerce   (1921–1928),Republican,Charles Curtis
+32,Franklin D. Roosevelt,"Jan 30, 1882","Hyde Park, New York","Apr 12, 1945","Warm Springs, Ga.","March 4, 1933","January 20, 1941",44th  Governor of New York   ( 1929–1932 ),Democratic,John Nance Garner
+33,Harry S. Truman,"May 8, 1884","Lamar, Missouri","Dec 26, 1972","Kansas City, Missouri","April 12, 1945","January 20, 1953",34th  Vice President of the United States,Democratic,Office vacant
+34,Dwight D. Eisenhower,"Oct 14, 1890","Denison, Texas","Mar 28, 1969","Washington, D.C.","January 20, 1953","January 20, 1961",Supreme Allied Commander Europe   ( 1949–1952 ),Republican,Richard Nixon
+35,John F. Kennedy,"May 29, 1917","Brookline, Mass.","Nov 22, 1963","Dallas, Texas","January 20, 1961","November 22, 1963",U.S. Senator   ( Class 1 )   from  Massachusetts   (1953–1960),Democratic,Lyndon B. Johnson
+36,Lyndon B. Johnson,"Aug 27, 1908","Gillespie Co., Texas","Jan 22, 1973","Gillespie Co., Texas","November 22, 1963","January 20, 1969",37th  Vice President of the United States,Democratic,Office vacant
+37,Richard Nixon,"Jan 9, 1913","Yorba Linda, Cal.","Apr 22, 1994","New York, New York","January 20, 1969","August 9, 1974",36th  Vice President of the United States   (1953–1961),Republican,Spiro Agnew
+38,Gerald Ford,"July 14, 1913","Omaha, Nebraska","Dec 26, 2006","Rancho Mirage, Cal.","August 9, 1974","January 20, 1977",40th  Vice President of the United States,Republican,Office vacant
+39,Jimmy Carter,"Oct 1, 1924","Plains, Georgia",,,"January 20, 1977","January 20, 1981",76th  Governor of Georgia   (1971–1975),Democratic,Walter Mondale
+40,Ronald Reagan,"Feb 6, 1911","Tampico, Illinois","June 5, 2004","Los Angeles, Cal.","January 20, 1981","January 20, 1989",33rd  Governor of California   ( 1967–1975 ),Republican,George H. W. Bush
+41,George H. W. Bush,"June 12, 1924","Milton, Mass.","Nov 30, 2018","Houston, Texas","January 20, 1989","January 20, 1993",43rd  Vice President of the United States,Republican,Dan Quayle
+42,Bill Clinton,"Aug 19, 1946","Hope, Arkansas",,,"January 20, 1993","January 20, 2001",40th & 42nd  Governor of Arkansas   (1979–1981 & 1983–1992),Democratic,Al Gore
+43,George W. Bush,"July 6, 1946","New Haven, Conn.",,,"January 20, 2001","January 20, 2009",46th  Governor of Texas   ( 1995–2000 ),Republican,Dick Cheney
+44,Barack Obama,"Aug 4, 1961","Honolulu, Hawaii",,,"January 20, 2009",,U.S. Senator   ( Class 3 )   from  Illinois   ( 2005–2008 ),Democratic,Joe Biden
+45,Donald Trump,"June 14, 1946","New York, New York",,,"January 20, 2017",--,Chairman of   The Trump Organization   ( 1971–present ),Republican,Mike Pence
